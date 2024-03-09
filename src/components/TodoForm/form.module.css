@@ -24,7 +24,7 @@
     color: #fff;
     background: #535151;
     border: 1px solid #525151;
-    border-radius: 8px;
+    border-radius: 20px;
     padding: 0 16px;
     font-size: 16px;
   }
@@ -39,7 +39,7 @@
     background: #1E6F9F;
     color: #fff;
     border: none;
-    border-radius: 8px;
+    border-radius: 20px;
     display: flex;
     align-items: center;
     gap: 6px;

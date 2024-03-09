@@ -1,0 +1,26 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+    ;
+  }
+
+  .textPurple {
+    padding-right: 408px;
+    color: #8284FA !important;
+  }
+
+  .button {
+    height: 42px;
+    width: 180px;
+    padding: 0 16px;
+    background: #1E6F9F;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    
+    align-items: center;
+    font-weight: 700;
+    font-size: 14px;
+  }
